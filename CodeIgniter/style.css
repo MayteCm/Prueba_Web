@@ -1,0 +1,27 @@
+
+  #p1 {    
+    max-height: 5rem;
+    color: #4c4a37; 
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-size: 18px;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    margin: 10;        
+  } 
+
+  #p2 {
+    word-wrap: break-word;
+    overflow: hidden;
+    text-overflow:ellipsis;
+    color: #4c4a37; 
+    font-family: 'Source Sans Pro', sans-serif; 
+    font-size: 18px; 
+    text-align: justify;
+    text-indent: 30px; 
+    margin: 40;   
+  } 
+
+  img{
+    display:block;
+    margin:auto;
+    }
